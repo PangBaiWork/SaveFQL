@@ -15,6 +15,7 @@
 ## 关于他
 
 张雨鑫（[@fuqiuluo](https://github.com/fuqiuluo)）今年 22 岁，湖南中南林业科技大学大四在读学生，也是活跃在QQBot开源社区与网络安全领域的年轻开发者！
+他曾在互联网大厂（字节阿里）实习，主攻Android逆向，内核开发，移动安全，并且成功获得阿里巴巴的转正offer，他家庭条件艰苦，美好的人生刚刚开始，但在他offer即将开奖的前一周，他在学校宿舍倒下了。
 
 - unidbg-fetch-qsign
 - shamrock
