@@ -40,13 +40,13 @@
 - 更加雪上加霜的是，**目前无医保可供报销**，所有治疗费用全部需要家庭自费承担。
 - 常年在工地打零工的父母，在出事后的短短几天内就已经耗尽了家里全部积蓄和亲友借款，面对 ICU 每天上万元的账单已彻底无力支撑。
 
-> 更多详情部分可前往轻松筹链接查看...
+> 更多详情请见[轻松筹项目页](https://m.qsmutual.com/fund/detail?projuuid=707d9690-2f56-4e1b-adb1-84b862e94c5b)。
 
 ---
 
 ## 进展记录
 
-- **2026-11-27**：建立本仓库同步情况（[@PangBaiWork](https://github.com/PangBaiWork) 为 fuqiuluo 现实舍友）
+- **2026-11-27**：建立本仓库同步情况（[@PangBaiWork](https://github.com/PangBaiWork) 为 fuqiuluo 合租舍友）
 - **2026-11-26**：在 fuqiuluo 本人的 QQ 群（`943577597`）内，其现实朋友与舍友发声并核实情况，社区开始接力发力。
 - **2026-11-25**：下午 15 时许在宿舍突发晕倒，室友紧急 CPR 后送入长沙市中心医院，抢救近 4 小时恢复心跳，转入急诊 ICU 并上 ECMO。
 
@@ -60,7 +60,7 @@
 大家帮帮忙！unidbg-fetch-qsign 和 Shamrock 的作者 fuqiuluo（伏秋洛/张雨鑫，22岁，大四学生）在11月25日下午于学校宿舍时突发心脏骤停，室友紧急CPR并送医抢救4小时才恢复心跳，现在在长沙市中心医院急诊ICU靠ECMO维持生命。
 因为没有医保，ECMO开机6-7万加上每天一两万的ICU费用全部自费，家里父母在工地打零工已经彻底撑不住了。用过他开源项目的朋友、或者路过的同行，求大家搭把手捐一点或者帮忙转发扩散一下！
 轻松筹链接：https://m.qsmutual.com/fund/detail?projuuid=707d9690-2f56-4e1b-adb1-84b862e94c5b
-跟进仓库：https://github.com/SaveFQL/SaveFQL
+跟进仓库：https://github.com/PangBaiWork/SaveFQL
 ```
 
 ## 联络与说明
