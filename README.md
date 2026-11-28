@@ -9,6 +9,7 @@
 
  **[点击前往轻松筹官方项目页捐助 / 转发](https://m.qsmutual.com/fund/detail?godeviceid=1a18595fa8810b-0a7375e545b25a-5e10390e-6546a-1a18595fa89aee&parent_share_no=1a21760412ec6e-0b3704e0b02da7-2d3f5049-6546a-1a21760412ff52&platform=wechat&level=1&share_no=1a2177fbf98ed5-07be17fa7c0156-2d3f5049-6546a-1a2177fbf99f08&sharecount=1&bi_cf=share.link.weiai&shareto=2&ptype=1&shareuuid=6bf9c493-588b-4b7a-a6ed-4659eff3f4f9&projuuid=707d9690-2f56-4e1b-adb1-84b862e94c5b)**
 
+你也可以通过扫描二维码进行捐款 / 转发
 <p align="center">
   <img src="img/image.png" alt="轻松筹项目页二维码" width="200" />
 </p>
