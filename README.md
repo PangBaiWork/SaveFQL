@@ -5,7 +5,7 @@
 
 - **主人公**：张雨鑫（GitHub：[@fuqiuluo](https://github.com/fuqiuluo)）
 - **当前状态**：长沙市中心医院 · 急诊 ICU（ECMO 维持生命中）
-- **最近更新**：2026-11-27
+- **最近更新**：2026-11-28
 
 👉 **[点击前往轻松筹官方项目页捐助 / 转发](https://m.qsmutual.com/fund/detail?godeviceid=1a18595fa8810b-0a7375e545b25a-5e10390e-6546a-1a18595fa89aee&parent_share_no=1a21760412ec6e-0b3704e0b02da7-2d3f5049-6546a-1a21760412ff52&platform=wechat&level=1&share_no=1a2177fbf98ed5-07be17fa7c0156-2d3f5049-6546a-1a2177fbf99f08&sharecount=1&bi_cf=share.link.weiai&shareto=2&ptype=1&shareuuid=6bf9c493-588b-4b7a-a6ed-4659eff3f4f9&projuuid=707d9690-2f56-4e1b-adb1-84b862e94c5b)**
 
@@ -46,6 +46,8 @@
 
 ## 进展记录
 
+- **2026-11-28**：经fuqiuluo现实朋友转告：目前主要是脑部问题，其他器官恢复预期存在，各方面指标比较严重；醒过来的概率较低，各方面指标比较严重...
+- **2026-11-27**：经fuqiuluo现实朋友转告：今天医生说脑血流少了；脑水肿在加剧（原话）
 - **2026-11-27**：建立本仓库同步情况（[@PangBaiWork](https://github.com/PangBaiWork) 为 fuqiuluo 合租舍友）
 - **2026-11-26**：在 fuqiuluo 本人的 QQ 群（`943577597`）内，其现实朋友与舍友发声并核实情况，社区开始接力发力。
 - **2026-11-25**：下午 15 时许在宿舍突发晕倒，室友紧急 CPR 后送入长沙市中心医院，抢救近 4 小时恢复心跳，转入急诊 ICU 并上 ECMO。
